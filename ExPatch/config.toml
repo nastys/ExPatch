@@ -1,0 +1,14 @@
+enabled = true
+include = ["."]
+dll = ["ExPatch.dll"]
+
+name = "ExPatch"
+description = "Unlocks Extreme and Extra-Extreme."
+version = "2.1"
+date = "30.05.2022"
+author = "nas, Stewie2.0"
+
+# Saves unlock info to your save data permanently.
+# Cannot be undone automatically.
+# The plugin can be disabled afterwards.
+permanent = false
